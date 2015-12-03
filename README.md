@@ -9,3 +9,5 @@ copyassets:{
   "folderCopyToInPublic":["files", "foldercontent"]
 }
 ```
+
+Need to generate the tree structrure of folder if Is't exits.
