@@ -1,12 +1,12 @@
 {
   "name": "copyassets-brunch",
-  "version": "1.7.0",
-  "description": "Adds CSS support to brunch.",
-  "author": "Paul Miller (http://paulmillr.com/)",
-  "homepage": "https://github.com/brunch/css-brunch",
+  "version": "1.0.0",
+  "description": "copy files to public, ideal for compiled from bower",
+  "author": "Álvaro Touzón (@kasselTrankos)",
+  "homepage": "https://github.com/kasselTrankos/copyassets-brunch",
   "repository": {
     "type": "git",
-    "url": "git@github.com:brunch/css-brunch.git"
+    "url": "git@github.com:kasselTrankos/copyassets-brunch"
   },
   "main": "./lib/index",
   "scripts": {
