@@ -12,6 +12,8 @@
   "scripts": {
     "test": "node_modules/.bin/mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+    "quickly-copy-file": "^0.1.0"
+  },
   "devDependencies": {}
 }
