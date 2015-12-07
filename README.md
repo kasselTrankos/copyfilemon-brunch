@@ -1,6 +1,13 @@
 # copyfilemon-brunch
 
  Inspired from assetsmanager-brunch, i make a similar uses quickly-copy-file plugin.
+
+
+install:
+```nodejs
+npm -i copyfilemon-brunch
+```
+
 demo of use:
 ```json
 copyfilemon:{
