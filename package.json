@@ -13,7 +13,8 @@
     "test": "node_modules/.bin/mocha"
   },
   "dependencies": {
-    "quickly-copy-file": "^0.1.0"
+    "quickly-copy-file": "^0.1.0",
+    "mkdirp":"*"
   },
   "devDependencies": {}
 }
