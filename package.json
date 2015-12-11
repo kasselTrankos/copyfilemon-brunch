@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "quickly-copy-file": "^0.1.0",
-    "mkdirp": "*"
+    "mkdirp": "^0.5.1"
   },
   "devDependencies": {}
 }
