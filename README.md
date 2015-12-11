@@ -10,10 +10,11 @@ npm -i copyfilemon-brunch
 
 demo of use:
 ```json
-
+plugins:{
   copyfilemon:{
     "folderCopyToInPublic":["files", "foldercontent"]
   }
+} 
 
 ```
 
