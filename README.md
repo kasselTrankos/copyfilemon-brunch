@@ -9,13 +9,12 @@ npm -i copyfilemon-brunch
 ```
 
 demo of use:
-```json
+```javascript
 plugins:{
   copyfilemon:{
     "folderCopyToInPublic":["files", "foldercontent"]
   }
-} 
-
+}
 ```
 
 You can copy file by file, or if you desired copy a folder structure and files content.
