@@ -3,18 +3,18 @@
   "version": "1.0.2",
   "description": "copy files to public, ideal for compiled from bower",
   "author": "Álvaro Touzón (@kasselTrankos)",
-  "homepage": "https://github.com/kasselTrankos/copyassets-brunch",
+  "homepage": "https://github.com/kasselTrankos/copyfilemon-brunch",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kasselTrankos/copyassets-brunch"
+    "url": "git@github.com:kasselTrankos/copyfilemon-brunch"
   },
   "main": "./lib/index",
   "scripts": {
     "test": "node_modules/.bin/mocha"
   },
   "dependencies": {
-    "quickly-copy-file": "^0.1.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^0.5.1",
+    "quickly-copy-file": "^0.1.0"
   },
   "devDependencies": {}
 }
