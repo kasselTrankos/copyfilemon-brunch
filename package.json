@@ -1,6 +1,6 @@
 {
   "name": "copyfilemon-brunch",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "copy files to public, ideal for compiled from bower",
   "author": "Álvaro Touzón (@kasselTrankos)",
   "homepage": "https://github.com/kasselTrankos/copyfilemon-brunch",
