@@ -5,7 +5,7 @@
 
 install:
 ```nodejs
-npm -i copyfilemon-brunch
+npm i copyfilemon-brunch
 ```
 
 demo of use:
