@@ -12,10 +12,14 @@ demo of use:
 ```javascript
 plugins:{
   copyfilemon:{
-    "folderCopyToInPublic":["files", "foldercontent"]
+    filesToCopy{
+      folderCopyToIn:["files", "foldercontent"]
+    },    
+    public: "public" //this is not an obligatory, by default 'public'
   }
 }
 ```
+
 
 You can copy file by file, or if you desired copy a folder structure and files content.
 
