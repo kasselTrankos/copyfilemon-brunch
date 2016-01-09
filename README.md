@@ -12,10 +12,7 @@ demo of use:
 ```javascript
 plugins:{
   copyfilemon:{
-    filesToCopy{
-      folderCopyToIn:["files", "foldercontent"]
-    },    
-    public: "public" //this is not an obligatory, by default 'public'
+    "folderCopyToInPublic":["files", "foldercontent"]
   }
 }
 ```
