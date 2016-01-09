@@ -19,6 +19,7 @@ plugins:{
   }
 }
 ```
+As you can see in [brunch-docs](https://github.com/brunch/brunch/tree/master/docs), the default folder of your statics files is public, but you can prefer any other folder to do this.
 
 
 You can copy file by file, or if you desired copy a folder structure and files content.
